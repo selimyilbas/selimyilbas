@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI - MACHİNE LEARNİNG - SOFTWARE ARCHİTECTURE - SMART SYSTEMS
 - 🌱 I’m currently studying Computer Science Engineering @YeditepeUniversity
 - 💞️ I’m currently learning advanced algorithms in AI and exploring software design patterns  
-- 📫 How to reach me selimyilbas@gmail.com
+- 📫 How to reach me selimyilbas@gmail.com https://www.linkedin.com/in/mahmut-selim-yilba%C5%9F-82617615b/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  I’ve spent more time explaining things to AI models than to my own friends ! 
 
