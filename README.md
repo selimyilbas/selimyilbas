@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selimyilbas
-- 👀 I’m interested in AI - MACHİNE LEARNİNG - SOFTWARE ARCHİTECTURE - SMART SYSTEMS
+- 👀 I’m interested in AI - MACHİNE LEARNİNG - SOFTWARE ENGINEERING
 - 🌱 I’m currently studying Computer Science Engineering @YeditepeUniversity
 - 👀 I’m currently learning advanced algorithms in AI and exploring software design patterns  
 - 📫 How to reach me
