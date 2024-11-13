@@ -5,7 +5,7 @@
 - 📫 How to reach me
   mail --> selimyilbas@gmail.com
   linkedin --> https://www.linkedin.com/in/mahmut-selim-yilba%C5%9F-82617615b/
-- 😄 Pronouns: he/him
+- 😄 Pronouns:
 - ⚡ Fun fact:  I’ve spent more time explaining things to AI models than to my own friends ! 
 
 <!---
