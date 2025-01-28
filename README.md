@@ -1,2 +1,1 @@
-
-  linkedin --> https://www.linkedin.com/in/selimyilbas
+Computer Science Engineering @YeditepeUniversity
